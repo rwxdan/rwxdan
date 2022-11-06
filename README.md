@@ -1,7 +1,7 @@
 # Hey! 👋 I'm Daniel
 ![header](./header.jpeg)
 ##  I'm from Venezuela 🇻🇪, born in the '96 🎂 and very into tech since I can remember 👨‍💻
-I went to college and got a degree on Financial Administration,
+I went to college and got a degree on Finances & Administration,
 but soon enough I discovered that MS Excel was not actually where
 I wanted to expend the rest of my life on. Long story short, it was not until _some time ago_ that I became interested in 
 learning about programming and Linux 🐧... ~~To be honest, once I got into
