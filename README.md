@@ -15,7 +15,6 @@ I'm a self-taught web developer and OSS connoisseur from Venezuela 🇻🇪.
 | [![Rwxdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwxdan&show_icons=true&theme=onedark&hide=contribs#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Rwxdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwxdan&show_icons=true&theme=default&hide=contribs#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) | [![Rwxdan's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwxdan&show_icons=true&theme=onedark&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Rwxdan's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwxdan&show_icons=true&theme=default&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 |--|---|
 
-### Social media 🗣
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=social&logo=Twitter&logoColor=32aeff)](https://twitter.com/dan1elcastro_)
+### 🗣
 - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=social&logo=discord&logoColor=5562ea)](https://discordapp.com/users/rwxdan#1884) 
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/dan1elcastro)
