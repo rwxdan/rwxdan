@@ -2,7 +2,7 @@
 <h1 align="center">I'm Daniel👋!</h1>
 
 ## Whoami
-I'm a self-taught web developer and OSS connoisseur from Venezuela 🇻🇪.
+I'm a self-taught web dev from Venezuela 🇻🇪.
 
 ### About me 💡
 - Born in the '96
