@@ -18,7 +18,9 @@ I'm a self-taught web dev from Venezuela 🇻🇪.
 |--|---|
 
 ### Open to work 👨‍💻
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- [FEM Profile](https://www.frontendmentor.io/profile/rwxdan)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
 
 ### 🗣
 - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/rwxdan#1884) 
