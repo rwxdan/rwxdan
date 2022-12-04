@@ -19,7 +19,7 @@ I'm a self-taught web dev from Venezuela 🇻🇪.
 
 ### Open to work 👨‍💻
 - [FEM Profile](https://www.frontendmentor.io/profile/rwxdan)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-castro-b4a034231/)
 
 
 ### 🗣
