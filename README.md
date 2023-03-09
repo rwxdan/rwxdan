@@ -23,5 +23,7 @@
 <div align="center">
   <a href="https://github.com/rwxdan#gh-light-mode-only"><img src="https://grss-rwxdan.vercel.app?user=rwxdan#gh-light-mode-only" alt="Rwxdan's GitHub Streak" /></a>
   <a href="https://github.com/rwxdan#gh-dark-mode-only"><img src="https://grss-rwxdan.vercel.app?user=rwxdan&theme=monokai#gh-dark-mode-only" alt="Rwxdan's GitHub Streak" /a>
-  <img alt="Rwxdan's snake game" src="https://raw.githubusercontent.com/rwxdan/rwxdan/output/github-contribution-grid-snake.svg" >
+  <img src="https://raw.githubusercontent.com/rwxdan/rwxdan/output/github-contribution-grid-snake.svg" alt="Rwxdan's snake game">
 </div>
+
+![Rwxdan's snake game](https://raw.githubusercontent.com/rwxdan/rwxdan/output/github-contribution-grid-snake.svg)
