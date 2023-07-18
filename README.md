@@ -19,6 +19,3 @@
     </tr>
   </table>
 </div>
-
-![Rwxdan's snake game](https://raw.githubusercontent.com/rwxdan/rwxdan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Rwxdan's snake game](https://raw.githubusercontent.com/rwxdan/rwxdan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
