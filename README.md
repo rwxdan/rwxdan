@@ -5,6 +5,7 @@
 - Born in the '96
 - Father of three (🐈🐈🐕‍)
 - OSS enthusiast
+<!--
 - Learn and train at [TOP](https://www.theodinproject.com/) and [FEM](https://frontendmasters.com/).
 
 <div align="center">
@@ -19,3 +20,4 @@
     </tr>
   </table>
 </div>
+-->
